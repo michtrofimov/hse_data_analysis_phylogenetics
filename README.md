@@ -22,7 +22,9 @@ wget https://github.com/michtrofimov/hse_data_analysis_MSA/blob/master/data/upst
 ```
 
 
+### Установите программу MEGA
 
+https://www.megasoftware.net/
 
 ### Задание 1. Нарисовать дерево
 
