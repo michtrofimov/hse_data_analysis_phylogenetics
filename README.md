@@ -49,7 +49,7 @@ wget https://github.com/michtrofimov/hse_data_analysis_MSA/blob/master/data/upst
 ### Задание 4. Полный процесс получения дерева от .fasta --> png/newick
 
 1. Получите нуклеотидный FASTA-файл (data/sample_nucl.fasta).
-2. Постройте выравнивание в CLUSTALW (https://www.ebi.ac.uk/Tools/msa/muscle/)
+2. Постройте выравнивание в CLUSTALW (https://www.genome.jp/tools-bin/clustalw)
    - обязательно отметьте что у вас нуклеотидная последовательность
    - сохраните множественное выравнивание в формате .fasta
 4. Постройте дерево в MEGA с помощью алгоритма ML со 100 бутстрапами.
