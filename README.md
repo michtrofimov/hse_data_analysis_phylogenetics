@@ -1,1 +1,1 @@
-# hse_data_analysis_phylogenetics
+# Лекция/Семинар 6. Филогенетика 
